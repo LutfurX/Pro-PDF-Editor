@@ -1,0 +1,6 @@
+{
+  "name": "ProPDF Studio",
+  "description": "Professional browser-based PDF editor with accurate PDF.js rendering, existing text replacement, English and Bengali font-embedded overlay editing, OCR for scanned documents, image and signature tools, page management, and real pdf-lib export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
